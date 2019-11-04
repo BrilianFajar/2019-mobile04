@@ -41,7 +41,8 @@
             android:onClick="handleParcelable"
             />
 
-        <Button
+
+         <Button
             android:id="@+id/button_exit"
             android:text="@string/exit"
             android:layout_width="match_parent"
